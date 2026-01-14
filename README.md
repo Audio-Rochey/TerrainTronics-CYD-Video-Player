@@ -3,6 +3,10 @@ Much of the code and tooling was architected and tested by Dafydd Roche, but cod
 
 ---
 
+
+https://github.com/user-attachments/assets/a23c35a8-ccdf-497c-9c3d-63fcf263c45d
+
+
 # CYD Video Player (TerrainTronics)
 
 A simple, reliable MJPEG video player firmware for **CYD ESP32 display boards**, designed for looping ambient visuals such as fireplaces, portals, fog, and animated scenery.
