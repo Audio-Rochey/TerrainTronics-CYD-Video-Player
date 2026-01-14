@@ -28,7 +28,7 @@ This project focuses on **ease of use**:
 
 ## Hardware Requirements
 
-* CYD board (ESP32-2432S028R or compatible)
+* CYD board (ESP32-2432S028R or compatible) - Documentation at: (https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display/tree/main/OriginalDocumentation)
 * microSD card (FAT32)
 * 5 V USB power source
 
