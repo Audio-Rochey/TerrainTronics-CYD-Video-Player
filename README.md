@@ -252,4 +252,6 @@ See the `LICENSE` file for full terms.
   [https://links.terraintronics.com/cydconvert](https://links.terraintronics.com/cydconvert)
 * TerrainTronics:
   [https://terraintronics.com](https://terraintronics.com)
+* 3D Model of the CYD for use in Cad Tools:
+  [https://grabcad.com/library/esp32_2432s028-cyd-usb-c-1](https://grabcad.com/library/esp32_2432s028-cyd-usb-c-1)
 
