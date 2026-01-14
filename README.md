@@ -209,8 +209,9 @@ These trade-offs provide:
 
 This project is **based on and derived from** the original MJPEG CYD playback work by:
 
-**The Last Output Workshop**
-YouTube channel and original example code
+**The Last Output Workshop** 
+
+https://github.com/thelastoutpostworkshop/esp32-2432S028_video_player
 
 TerrainTronics has:
 
@@ -232,7 +233,8 @@ You are free to:
 * Use
 * Modify
 * Distribute
-* Incorporate into commercial or non-commercial projects
+* Incorporate into commercial or non-commercial projects - providing they also have the MIT license
+  
 
 See the `LICENSE` file for full terms.
 
